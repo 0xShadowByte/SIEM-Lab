@@ -6,13 +6,16 @@ Learn how to generate security events on the Kali VM< set up an agent to forward
 
 ### Skills Learned
 
--
-- 
+- Learn how to set up a home lab using Elastic SIEM and a Kali VM
+- Forwarded data from Kali VM to the SIEM using the Elastic agent
+- Generated security events on Kali VM using Nmap
+- Query and analyze the logs in the SIEM using the Elastic web interface
+- Create a dashboard to visualize security events and then created an alert to detect security events
 
 ### Tools Used
 
 - VirtualBox VM
-- Kali Linux
+- Kali Linux VM
 - Elastic
 
 ## Steps
@@ -49,4 +52,7 @@ Learn how to generate security events on the Kali VM< set up an agent to forward
 
 ![image](https://github.com/user-attachments/assets/b3557f8a-b7b5-4477-b3c4-1096882489d6)
 
+*Ref 9: Adding email alerts as an additional notification*
+
+![image](https://github.com/user-attachments/assets/d5872275-8822-423b-bcbd-684d6fbe6503)
 
